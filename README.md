@@ -24,7 +24,7 @@ The RootTron brand represents a commitment to **Offensive Security** excellence 
 Stay connected with the RootTron intelligence network:
 
 - **ðŸ”— Official Core**: [https://www.roottron.com](https://www.roottron.com)
-- **ðŸ¦ Intelligence Briefings (X/Twitter)**: [@RootTron](https://twitter.com/RootTron)
+- **ðŸ“¸ Instagram**: [@RootTron](https://www.instagram.com/roottron)
 - **ðŸ“§ Contact/Support**: Support channels available via the main interface.
 
 ---
